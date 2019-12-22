@@ -1,0 +1,15 @@
+student1367,Star Trek Beyond,3
+student1367,Rogue One,3
+student1367,Moana,1
+student1367,The Edge of Seventeen,3
+student1367,The Revenant,5
+student1367,Blade Runner 2049,5
+student1046,The Good Dinosaur,3
+student1046,Rogue One,3
+student1046,Moana,3
+student1206,Brooklyn,1
+student1103,The Revenant,5
+student1462,The Revenant,5
+student1046,The Edge of Seventeen,3
+student1364,The Big Short,3
+student1153,The Hateful Eight,5
